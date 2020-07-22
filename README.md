@@ -5,7 +5,7 @@ EPiQC Benchmarks -- An open-source library for evaluating peformance of quantum 
 
 ## Updates
 
-**Jul 22, 2020
+**Jul 22, 2020**
 * Release of SQUARE arithmetics benchmarks
 
 <br>
@@ -15,7 +15,7 @@ Follow instructions [here](./docs/benchmarkInstallation.md) to install and setup
 <br>
 ## 2. Contents
 * [bench](./bench/)
-    + [SQUARE](./bench/square-cirq) (in Cirq): [applications](./bench/square-cirq/applications), [synthetics](./bench/square-cirq/synthetics)
+    + [SQUARE](./bench/square-cirq) (in Cirq): [applications](./bench/square-cirq/application), [synthetics](./bench/square-cirq/synthetic)
 
 <br>
 ## 3. Referenes
