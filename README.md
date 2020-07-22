@@ -20,6 +20,8 @@ Follow instructions [here](./docs/benchmarkInstallation.md) to install and setup
 
 * [bench](./bench/)
     + [SQUARE](./bench/square-cirq) (in Cirq): [applications](./bench/square-cirq/application), [synthetics](./bench/square-cirq/synthetic)
+* [scripts](./scripts/)
+    + [SQUARE synthesizer](./scripts/square-synthesize.sh) 
 
 <br>
 
