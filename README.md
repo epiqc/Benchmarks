@@ -42,3 +42,14 @@ Follow instructions [here](./docs/benchmarkInstallation.md) to install and setup
 ```
 
 * More to come.
+
+## 4. How to Contribute
+
+* General guidelines for contributing to EPiQC benchmark suite:
+
+1. Install the benchmark repository from source, following instructions [here](./docs/benchmarkInstallation.md).
+2. Make a directory for your source code under [bench/](./bench). Follow the naming convention: bench/benchName-language/, where language is the quantum programming language in which the benchmarks are written.
+3. Put any scripts for building or testing the benchmarks in [scripts/](./scripts).
+4. Update the installation [instructions](./docs/benchmarkInstallation.md) if the benchmarks require new packages or environments.
+5. Submit a pull request if your source code is ready for review.
+6. Provide information on detailed description and reference(s) of the benchmarks.
